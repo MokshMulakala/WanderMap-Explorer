@@ -1,4 +1,5 @@
 WanderMap Explorer
+
 WanderMap Explorer is a city exploration web application that allows users to discover popular tourist spots based on their interests. The app provides category-based filtering so users can easily explore places to visit, whether they are looking for historical landmarks, spiritual destinations, or entertainment venues. It is lightweight, easy to use, and designed for quick travel planning.
 
 This project was developed as part of a college corporate challenge and was built from scratch in just six hours using only HTML, CSS, and JavaScript. Despite being created in a short span of time, the app is functional, user-friendly, and demonstrates how simple technologies can be combined to deliver effective solutions for everyday needs.
